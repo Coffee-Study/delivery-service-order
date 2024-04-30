@@ -1,4 +1,4 @@
-package com.delivery.service.coffee;
+package com.delivery.service.order;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
